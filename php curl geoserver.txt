@@ -1,0 +1,4 @@
+https://geoserver.geo-solutions.it/downloads/releases/2.8.x-ld/doc/rest/examples/php.html
+
+
+https://docs.geoserver.org/latest/en/user/extensions/sldservice/index.html

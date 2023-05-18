@@ -1,0 +1,620 @@
+<?xml  version="1.0" encoding="utf-8"?>
+<metadata>
+  <entry key="custom">
+    <map>
+      <entry>
+        <string>distributor/individual-Name</string>
+        <list>
+          <string>BIDANG INFRASTRUKTRU DAN KEWILAYAHAN</string>
+        </list>
+      </entry>
+      <entry>
+        <string>distributor/contactinfo/email</string>
+        <list>
+          <string>ilh.bappedakalsel@gmail.com</string>
+        </list>
+      </entry>
+      <entry>
+        <string>distributor/contactinfo/postal-code</string>
+        <list>
+          <string>72123</string>
+        </list>
+      </entry>
+      <entry>
+        <string>specific-usage/user-contact/contactinfo/website</string>
+        <null />
+      </entry>
+      <entry>
+        <string>metadata-language</string>
+        <string>Indonesia</string>
+      </entry>
+      <entry>
+        <string>transfer-option/transfer-name</string>
+        <list>
+          <string>GEOPORTAL PROV KALSEL</string>
+        </list>
+      </entry>
+      <entry>
+        <string>specific-usage/user-contact/organisation</string>
+        <null />
+      </entry>
+      <entry>
+        <string>data-contact/contactinfo/contact-Instructions</string>
+        <null />
+      </entry>
+      <entry>
+        <string>metadata-contact/contactinfo/website</string>
+        <list>
+          <string>https://bappeda.kalselprov.go.id/</string>
+        </list>
+      </entry>
+      <entry>
+        <string>_timestamp</string>
+        <date>2022-05-26 13:36:18.304 UTC</date>
+      </entry>
+      <entry>
+        <string>data-quality-process-step/processor/contactinfo/administrative-Area</string>
+        <null />
+      </entry>
+      <entry>
+        <string>metadata-contact/contactinfo/administrative-Area</string>
+        <list>
+          <string>Kalimantan Selatan</string>
+        </list>
+      </entry>
+      <entry>
+        <string>data-quality-conformance/specification-ref</string>
+        <null />
+      </entry>
+      <entry>
+        <string>distributor/organisation</string>
+        <list>
+          <string>INFRASTRUKTRU DAN KEWILAYAHAN</string>
+        </list>
+      </entry>
+      <entry>
+        <string>specific-usage/user-contact/contactinfo/contact-Instructions</string>
+        <null />
+      </entry>
+      <entry>
+        <string>feature-catalog/feature-type/feature-attribute/length</string>
+        <null />
+      </entry>
+      <entry>
+        <string>distributor/contactinfo/telephone</string>
+        <list>
+          <string>08991280888</string>
+        </list>
+      </entry>
+      <entry>
+        <string>data-contact/contactinfo/administrative-Area</string>
+        <null />
+      </entry>
+      <entry>
+        <string>keyword-gemet-concept</string>
+        <null />
+      </entry>
+      <entry>
+        <string>distributor/contactinfo/hours-of-service</string>
+        <list>
+          <string>Senin-Jumat, 8:00 am- 4:00 pm WITA</string>
+        </list>
+      </entry>
+      <entry>
+        <string>keyword-custom-thesaurus/keyword/keyword-label</string>
+        <null />
+      </entry>
+      <entry>
+        <string>metadata-contact/contactinfo/delivery-point</string>
+        <list>
+          <string>Jl. Adhyaksa No.2 Kayu Tangi - Banjarmasin</string>
+        </list>
+      </entry>
+      <entry>
+        <string>transfer-option/transfer-function</string>
+        <list>
+          <string>information</string>
+        </list>
+      </entry>
+      <entry>
+        <string>specific-usage/user-contact/contactinfo/position-Name</string>
+        <null />
+      </entry>
+      <entry>
+        <string>distributor/contactinfo/administrative-Area</string>
+        <list>
+          <string>Kalimantan Selatan</string>
+        </list>
+      </entry>
+      <entry>
+        <string>specific-usage/user-contact/contactinfo/country</string>
+        <null />
+      </entry>
+      <entry>
+        <string>data-contact/organisation</string>
+        <null />
+      </entry>
+      <entry>
+        <string>rc-rc-use-limitation</string>
+        <list>
+          <string>Dengan Kutipan</string>
+        </list>
+      </entry>
+      <entry>
+        <string>dataser-url</string>
+        <string>http://geoservice.kalselprov.go.id/csw</string>
+      </entry>
+      <entry>
+        <string>metadata-contact/contactinfo/country</string>
+        <list>
+          <string>Indonesia</string>
+        </list>
+      </entry>
+      <entry>
+        <string>distributor/contactinfo/country</string>
+        <list>
+          <string>Indonesia</string>
+        </list>
+      </entry>
+      <entry>
+        <string>data-quality-process-step/processor/contactinfo/telephone</string>
+        <null />
+      </entry>
+      <entry>
+        <string>data-quality-process-step/processor/contactinfo/delivery-point</string>
+        <null />
+      </entry>
+      <entry>
+        <string>keyword-custom-thesaurus/thesaurus-title-label</string>
+        <null />
+      </entry>
+      <entry>
+        <string>metadata-contact/individual-Name</string>
+        <list>
+          <string>individual-Name</string>
+        </list>
+      </entry>
+      <entry>
+        <string>data-quality-conformance/title-ref</string>
+        <null />
+      </entry>
+      <entry>
+        <string>update-frequency</string>
+        <string>asNeeded</string>
+      </entry>
+      <entry>
+        <string>status</string>
+        <string>completed</string>
+      </entry>
+      <entry>
+        <string>data-contact/individual-Name</string>
+        <null />
+      </entry>
+      <entry>
+        <string>data-quality-process-step/processor/individual-Name</string>
+        <null />
+      </entry>
+      <entry>
+        <string>feature-catalog/feature-type/feature-attribute/min-occurrence</string>
+        <null />
+      </entry>
+      <entry>
+        <string>data-quality-process-step/processor/contactinfo/contact-Instructions</string>
+        <null />
+      </entry>
+      <entry>
+        <string>keyword-custom-thesaurus/thesaurus-title-ref</string>
+        <null />
+      </entry>
+      <entry>
+        <string>metadata-language-code</string>
+        <string>ind</string>
+      </entry>
+      <entry>
+        <string>transfer-option/protocol</string>
+        <list>
+          <string>LINK download-store</string>
+        </list>
+      </entry>
+      <entry>
+        <string>data-quality-process-step/processor/role</string>
+        <null />
+      </entry>
+      <entry>
+        <string>data-contact/contactinfo/hours-of-service</string>
+        <null />
+      </entry>
+      <entry>
+        <string>data-quality-conformance/date</string>
+        <null />
+      </entry>
+      <entry>
+        <string>distributor/contactinfo/delivery-point</string>
+        <list>
+          <string>JL. Dharma Praja I Kawasan Perkantoran Pemprov.Kalsel</string>
+        </list>
+      </entry>
+      <entry>
+        <string>metadata-contact/contactinfo/position-Name</string>
+        <list>
+          <string>position-Name</string>
+        </list>
+      </entry>
+      <entry>
+        <string>rc-lim-access-constraint</string>
+        <string>copyright</string>
+      </entry>
+      <entry>
+        <string>specific-usage/user-contact/contactinfo/email</string>
+        <null />
+      </entry>
+      <entry>
+        <string>rc-con-other-constraint/other-constraint-ref</string>
+        <null />
+      </entry>
+      <entry>
+        <string>specific-usage/user-contact/contactinfo/postal-code</string>
+        <null />
+      </entry>
+      <entry>
+        <string>data-contact/contactinfo/email</string>
+        <null />
+      </entry>
+      <entry>
+        <string>graphic-overview-url</string>
+        <string>https://geoportal.kalselprov.go.id/geoserver/wms</string>
+      </entry>
+      <entry>
+        <string>metadata-contact/contactinfo/email</string>
+        <list>
+          <string>hidayatul.rahman0097@gmail.com</string>
+        </list>
+      </entry>
+      <entry>
+        <string>metadata-contact/contactinfo/fax</string>
+        <list>
+          <string>0511</string>
+        </list>
+      </entry>
+      <entry>
+        <string>data-language-code</string>
+        <string>ind</string>
+      </entry>
+      <entry>
+        <string>metadata-contact/organisation</string>
+        <list>
+          <string>Organisation name</string>
+        </list>
+      </entry>
+      <entry>
+        <string>specific-usage/user-contact/contactinfo/telephone</string>
+        <null />
+      </entry>
+      <entry>
+        <string>keyword-inspire-theme-label</string>
+        <null />
+      </entry>
+      <entry>
+        <string>keyword-custom-thesaurus/keyword/keyword-ref</string>
+        <null />
+      </entry>
+      <entry>
+        <string>data-quality-process-step/datetime</string>
+        <null />
+      </entry>
+      <entry>
+        <string>metadata-contact/contactinfo/telephone</string>
+        <list>
+          <string>085345613588</string>
+        </list>
+      </entry>
+      <entry>
+        <string>data-contact/contactinfo/fax</string>
+        <null />
+      </entry>
+      <entry>
+        <string>data-identifier</string>
+        <string>3127049c-32f9-4773-953f-7d7999fc4389</string>
+      </entry>
+      <entry>
+        <string>specific-usage/user-contact/contactinfo/city</string>
+        <null />
+      </entry>
+      <entry>
+        <string>metadata-identifier</string>
+        <string>ef1fb2da-e3e0-40dc-8633-a06c37f41c44</string>
+      </entry>
+      <entry>
+        <string>data-contact/contactinfo/city</string>
+        <null />
+      </entry>
+      <entry>
+        <string>specific-usage/user-contact/contactinfo/delivery-point</string>
+        <null />
+      </entry>
+      <entry>
+        <string>lineage-source</string>
+        <null />
+      </entry>
+      <entry>
+        <string>data-quality-process-step/rationale</string>
+        <null />
+      </entry>
+      <entry>
+        <string>feature-catalog/feature-type/feature-attribute/definition</string>
+        <null />
+      </entry>
+      <entry>
+        <string>rc-con-use-constraint</string>
+        <null />
+      </entry>
+      <entry>
+        <string>data-contact/contactinfo/website</string>
+        <null />
+      </entry>
+      <entry>
+        <string>data-quality-process-step/processor/contactinfo/postal-code</string>
+        <null />
+      </entry>
+      <entry>
+        <string>data-quality-process-step/processor/contactinfo/hours-of-service</string>
+        <null />
+      </entry>
+      <entry>
+        <string>lineage-statement</string>
+        <null />
+      </entry>
+      <entry>
+        <string>rc-lim-other-constraint-label</string>
+        <null />
+      </entry>
+      <entry>
+        <string>topic-category</string>
+        <list>
+          <string>Lingkungan Terbangun</string>
+        </list>
+      </entry>
+      <entry>
+        <string>feature-catalog/feature-type/feature-type-definition</string>
+        <null />
+      </entry>
+      <entry>
+        <string>data-contact/contactinfo/position-Name</string>
+        <null />
+      </entry>
+      <entry>
+        <string>data-contact/contactinfo/country</string>
+        <null />
+      </entry>
+      <entry>
+        <string>distributor/contactinfo/position-Name</string>
+        <list>
+          <string>Pejabat Eselon III Bidang</string>
+        </list>
+      </entry>
+      <entry>
+        <string>keyword-free</string>
+        <null />
+      </entry>
+      <entry>
+        <string>specific-usage/user-contact/contactinfo/administrative-Area</string>
+        <null />
+      </entry>
+      <entry>
+        <string>distributor/contactinfo/contact-Instructions</string>
+        <list>
+          <string>email/telepon</string>
+        </list>
+      </entry>
+      <entry>
+        <string>feature-catalog/feature-type/feature-attribute/max-occurrence</string>
+        <null />
+      </entry>
+      <entry>
+        <string>feature-catalog/feature-type/feature-attribute/domain/definition</string>
+        <null />
+      </entry>
+      <entry>
+        <string>data-quality-process-step/processor/contactinfo/position-Name</string>
+        <null />
+      </entry>
+      <entry>
+        <string>keyword-custom-thesaurus/thesaurus-citation-ref</string>
+        <null />
+      </entry>
+      <entry>
+        <string>specific-usage/user-contact/contactinfo/fax</string>
+        <null />
+      </entry>
+      <entry>
+        <string>specific-usage/user-contact/role</string>
+        <null />
+      </entry>
+      <entry>
+        <string>data-quality-process-step/processor/contactinfo/website</string>
+        <null />
+      </entry>
+      <entry>
+        <string>feature-catalog/feature-catalog-identifier</string>
+        <null />
+      </entry>
+      <entry>
+        <string>distributor/contactinfo/fax</string>
+        <list>
+          <string>(0511) 67492</string>
+        </list>
+      </entry>
+      <entry>
+        <string>purpose</string>
+        <string>Peta testing metadata porpuse</string>
+      </entry>
+      <entry>
+        <string>edition</string>
+        <string>2022</string>
+      </entry>
+      <entry>
+        <string>distributor/contactinfo/website</string>
+        <list>
+          <string>http://www.kalselprov.go.id</string>
+        </list>
+      </entry>
+      <entry>
+        <string>data-valid-date/end-date</string>
+        <date>2022-05-30 16:00:00.0 UTC</date>
+      </entry>
+      <entry>
+        <string>specific-usage/usage</string>
+        <null />
+      </entry>
+      <entry>
+        <string>data-contact/contactinfo/delivery-point</string>
+        <null />
+      </entry>
+      <entry>
+        <string>distributor/contactinfo/city</string>
+        <list>
+          <string>Banjarbaru</string>
+        </list>
+      </entry>
+      <entry>
+        <string>transfer-option/transfer-description</string>
+        <list>
+          <string>Web Portal Kalimantan Selatan</string>
+        </list>
+      </entry>
+      <entry>
+        <string>data-quality-process-step/processor/contactinfo/country</string>
+        <null />
+      </entry>
+      <entry>
+        <string>data-language</string>
+        <string>Indonesia</string>
+      </entry>
+      <entry>
+        <string>rc-con-other-constraint/other-constraint-label</string>
+        <null />
+      </entry>
+      <entry>
+        <string>data-date/date-type</string>
+        <list>
+          <string>creation</string>
+          <string>publication</string>
+        </list>
+      </entry>
+      <entry>
+        <string>keyword-custom-thesaurus/thesaurus-date-type</string>
+        <null />
+      </entry>
+      <entry>
+        <string>data-quality-conformance/date-type</string>
+        <null />
+      </entry>
+      <entry>
+        <string>data-date/date</string>
+        <list>
+          <date>2022-05-23 16:00:00.0 UTC</date>
+          <date>2018-07-31 16:00:00.0 UTC</date>
+        </list>
+      </entry>
+      <entry>
+        <string>data-quality-conformance/title-label</string>
+        <null />
+      </entry>
+      <entry>
+        <string>metadata-contact/contactinfo/city</string>
+        <list>
+          <string>Banjarmaisn</string>
+        </list>
+      </entry>
+      <entry>
+        <string>data-quality-process-step/description</string>
+        <null />
+      </entry>
+      <entry>
+        <string>data-contact/contactinfo/postal-code</string>
+        <null />
+      </entry>
+      <entry>
+        <string>transfer-option/linkage</string>
+        <list>
+          <string>https://geoportal.kalselprov.go.id/</string>
+        </list>
+      </entry>
+      <entry>
+        <string>supplemental-information</string>
+        <string>LImit Akses publik</string>
+      </entry>
+      <entry>
+        <string>data-valid-date/start-date</string>
+        <date>2022-05-16 16:00:00.0 UTC</date>
+      </entry>
+      <entry>
+        <string>maintenance-note</string>
+        <string>Dibuat oleh GS Geoserver</string>
+      </entry>
+      <entry>
+        <string>data-quality-conformance/pass</string>
+        <null />
+      </entry>
+      <entry>
+        <string>distributor/role</string>
+        <list>
+          <string>distributor</string>
+        </list>
+      </entry>
+      <entry>
+        <string>data-contact/role</string>
+        <null />
+      </entry>
+      <entry>
+        <string>resolution-equivalent-scale</string>
+        <int>50000</int>
+      </entry>
+      <entry>
+        <string>metadata-contact/contactinfo/contact-Instructions</string>
+        <list>
+          <string>email/telepon</string>
+        </list>
+      </entry>
+      <entry>
+        <string>feature-catalog/feature-type/feature-attribute/domain/code</string>
+        <null />
+      </entry>
+      <entry>
+        <string>specific-usage/user-contact/individual-Name</string>
+        <null />
+      </entry>
+      <entry>
+        <string>feature-catalog/feature-type/feature-attribute/type</string>
+        <null />
+      </entry>
+      <entry>
+        <string>metadata-contact/role</string>
+        <list>
+          <string>pointOfContact</string>
+        </list>
+      </entry>
+      <entry>
+        <string>alternate-title</string>
+        <string>giant polygon</string>
+      </entry>
+      <entry>
+        <string>data-contact/contactinfo/telephone</string>
+        <null />
+      </entry>
+      <entry>
+        <string>parent-identifier</string>
+        <string>tiger:giant_polygon</string>
+      </entry>
+      <entry>
+        <string>metadata-contact/contactinfo/hours-of-service</string>
+        <list>
+          <string>Senin-Jumat, 8:00 am- 4:00 pm WIB</string>
+        </list>
+      </entry>
+    </map>
+  </entry>
+  <entry key="custom-derived-attributes">
+    <map />
+  </entry>
+</metadata>
